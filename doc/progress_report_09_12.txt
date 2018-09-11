@@ -1,5 +1,5 @@
 ﻿Citation Prediction Bioinformatics 
-Luke Davis, Mouna Kalidindi, Darpan Jhawar, Steve Stamey, Logan Hornbuckle
+Luke Davis, Mouna Kalidindi, Darpan Jhawar, Charles Stamey, Logan Hornbuckle
 CSC 505-01 Fall 2018 UNCG
 
 
