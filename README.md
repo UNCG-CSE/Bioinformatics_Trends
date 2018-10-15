@@ -3,3 +3,13 @@ Centered on bioinformatics Scopus research papers’ data, we aim to predict the
 
 The first phase of the project will consist of data wrangling and organizing, essentially preparing data for machine learning.  The next phase will be researching and appropriately selecting what machine learning we want to apply.  Finally, we will perform analysis on the machine learning and present our findings as intuitively and concisely as possible.
 
+Members and Related Tasks: 
+- Mouna 
+
+- Logan
+
+- Darpan
+
+- Steve
+
+- Luke
