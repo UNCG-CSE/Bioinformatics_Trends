@@ -10,6 +10,6 @@ Members and Related Tasks:
 
 - Darpan
 
-- Steve
+- Steve https://github.com/UNCG-CSE/Bioinformatics_Trends/issues/1#issue-358145090
 
 - Luke
