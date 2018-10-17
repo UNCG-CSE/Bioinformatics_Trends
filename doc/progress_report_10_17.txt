@@ -61,11 +61,16 @@ years in publications. However, the past two years have seen China emerging as l
 this further relates, if at all,  with citations. 
 
 Logan Hornbuckle
-Using the JSON files given to us, I also extracted my subset of data into CSV files. Each CSV file matched the time interval of it's corresponding JSON file. My data pretained to the Paper's subject area & author keyword(s). The CSV file was divided by the following columns:
+Using the JSON files given to us, I also extracted my subset of data into CSV files. Each CSV file matched the time interval
+of it's corresponding JSON file. My data pretained to the Paper's subject area & author keyword(s). The CSV file was divided
+by the following columns:
 - Author Keyword
 - Subject Area
    - Abbreviation
    - Text
    - Code
    
-I wanted to see which subject area was the most popular. In order to do this I summed the total citations (grouped by subject area). I then divided #citations/#papers to get the average number of citations per paper (gropued by subject area) and created a bar plot of this data. The most popular subject areas included Arts, Nursing, Earth Science and Math. The least popular included Dentistry and Psychology. These results were a bit surprising.
+I wanted to see which subject area was the most popular. In order to do this I summed the total citations (grouped by
+subject area). I then divided #citations/#papers to get the average number of citations per paper (gropued by subject area)
+and created a bar plot of this data. The most popular subject areas included Arts, Nursing, Earth Science and Math. The
+least popular included Dentistry and Psychology. These results were a bit surprising.
