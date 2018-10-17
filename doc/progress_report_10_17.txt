@@ -53,6 +53,7 @@ Affiliation
 - ID 
 - Country
 - Name
+
 Having the data from the fields above, I performed graphical analysis. This allowed me to acquire information regarding "variables” for predicting citations. In particular, I focused on the top ten countries and their respective publication count. From this, I began the first stage of seeing how a countries' count correlates with citations, if any. Initially, I found that the US has led the past 28 years in publications. However, the past two years have seen China emerging as leading in publication count.
 
 Logan Hornbuckle
