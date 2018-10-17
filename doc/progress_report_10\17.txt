@@ -43,6 +43,8 @@ I extracted all publication related fields as mentioned below:
 -Publication name
 -Publication type
 
-Different files were created for different years, Unique scopusId(eid) is added to all the files in order to merge data across years. Then some statistical analysis is done on the field Publication type and observed that most of the papers are published in Journals. And I created a correlation matrix to see the correlation between the number of authors and citations.
+Different files were created for different years, Unique scopusId(eid) is added to all the files in order to merge data across years. 
+Then some statistical analysis is done on the field Publication type and observed that most of the papers are published in Journals. And 
+I created a correlation matrix to see the correlation between the number of authors and citations.
 
 
