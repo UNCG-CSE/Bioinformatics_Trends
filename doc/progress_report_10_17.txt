@@ -39,7 +39,7 @@ graphical analysis on my subset of data - in particular, # of authors and # of a
 
 Mouna Kalidindi
 I extracted all publication related fields as mentioned below:
--Publication year
+-Publication year(1986-2017)
 -Publication name
 -Publication type
 
