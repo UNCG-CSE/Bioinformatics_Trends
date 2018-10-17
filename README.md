@@ -6,7 +6,7 @@ The first phase of the project will consist of data wrangling and organizing, es
 Members and Related Tasks: 
 - Mouna https://github.com/mounakalidindi
 
-- Logan
+- Logan https://github.com/LoganHornbuckle
 
 - Darpan
 
