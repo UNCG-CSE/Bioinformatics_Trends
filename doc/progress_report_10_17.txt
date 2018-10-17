@@ -56,9 +56,9 @@ Affiliation
 
 Having the data from the fields above, I performed graphical analysis. This allowed me to acquire information regarding "variables” for
 predicting citations. In particular, I focused on the top ten countries and their respective publication count. From this, I began the
-first stage of seeing how a countries' count correlates with citations, if any. Initially, I found that the US has led the past 28
+first stage of seeing how a countries' count relates to citations, if any. Initially, I found that the US has led the past 28
 years in publications. However, the past two years have seen China emerging as leading in publication count. I will attempt to see how
-this correlates, if at all,  with citations. 
+this further relates, if at all,  with citations. 
 
 Logan Hornbuckle
 Using the JSON files given to us, I also extracted my subset of data into CSV files. Each CSV file matched the time interval of it's corresponding JSON file. My data pretained to the Paper's subject area & author keyword(s). The CSV file was divided by the following columns:
