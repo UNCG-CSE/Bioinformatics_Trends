@@ -8,8 +8,8 @@ Members and Related Tasks:
 
 - Logan https://github.com/LoganHornbuckle
 
-- Darpan
+- Darpan https://github.com/djhawar
 
-- Steve https://github.com/UNCG-CSE/Bioinformatics_Trends/issues/1#issue-358145090
+- Steve https://github.com/stevieclean
 
-- Luke
+- Luke https://github.com/lukeusername
