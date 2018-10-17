@@ -36,3 +36,13 @@ The data given to us was divided into 6 JSON files.  Using python, I extracted m
 avoid redundant data, I put affiliation IDs (along with their respective eid) in 6 additional files, as they would have a different 
 number of columns.  This data was shared with the group, and subsequently merged with the other extracted data.  I then conducted 
 graphical analysis on my subset of data - in particular, # of authors and # of affiliations.
+
+Mouna Kalidindi
+I extracted all publication related fields as mentioned below:
+-Publication year
+-Publication name
+-Publication type
+
+Different files were created for different years, Unique scopusId(eid) is added to all the files in order to merge data across years. Then some statistical analysis is done on the field Publication type and observed that most of the papers are published in Journals. And I created a correlation matrix to see the correlation between the number of authors and citations.
+
+
