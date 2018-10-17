@@ -16,11 +16,11 @@ Tasks performed by each member:
 
 Darpan Jhawar:
 My initial task was to extract certain fields from the JSON files. There were 6 JSON files in total and my task was to extract the fields:
-eid
-cite	
-Lang	
-Para	
-Title
+eid (unique identifier for each paper)
+cite	(number of citations the paper has recieved_
+Lang	(Language of the paper)
+Para	(the initial paragraph of the paper)
+Title  (Title of the paper)
 
 I created 6 separate .csv files from the 6 JSON files and also created another file merging all of these. I then created a scatter plot
 comparing the length of title of a paper to the number of citations.
