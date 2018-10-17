@@ -32,4 +32,7 @@ Throughout the extraction, organization, and presentation of the data, I was res
 - Author Name
 - Affiliation IDs (can be more than one)
 
-The data given to us was divided into 6 JSON files.  Using python, I extracted my respective data points into 6 csv files.  However, to avoid redundant data, I put affiliation IDs (along with their respective eid) in 6 additional files, as they would have a different number of columns.  This data was shared with the group, and subsequently merged with the other extracted data.  I then conducted graphical analysis on my subset of data - in particular, # of authors and # of affiliations.
+The data given to us was divided into 6 JSON files.  Using python, I extracted my respective data points into 6 csv files.  However, to
+avoid redundant data, I put affiliation IDs (along with their respective eid) in 6 additional files, as they would have a different 
+number of columns.  This data was shared with the group, and subsequently merged with the other extracted data.  I then conducted 
+graphical analysis on my subset of data - in particular, # of authors and # of affiliations.
