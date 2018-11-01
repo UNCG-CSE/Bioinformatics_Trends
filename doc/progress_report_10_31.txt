@@ -1,0 +1,43 @@
+
+Citation Prediction Bioinformatics 
+Luke Davis, Mouna Kalidindi, Darpan Jhawar, Charles Stamey, Logan Hornbuckle
+CSC 505-01 Fall 2018 UNCG
+
+Introduction:
+
+Centered on bioinformatics Scopus research papers’ data, we aim to predict the success of a paper.  The primary indicator of success 
+will be centered around citations, and we will analyze and determine what factors are most important for the success of a paper.  It is
+our hope that various useful, interesting indicators of success will reveal itself through the combination of machine learning and our
+analysis.
+
+The first phase of the project will consist of data wrangling and organizing, essentially preparing data for machine learning.  The next
+phase will be researching and appropriately selecting what machine learning we want to apply.  Finally, we will perform analysis on the
+machine learning and present our findings as intuitively and concisely as possible.
+
+Progress 3 Overview:
+
+In this third leg, we moved past merely representing our data and it's distribution, and begun to dig deeper into what variables might
+work best once we start applying machine learning.
+
+Tasks performed by each member:
+
+Luke Davis:
+
+I produced two graphical representations and respective analysis' on the distribution of citations.  I produced two graphs in this category.
+1. a scatterplot
+2. a probability distribution of citations over the years of our data.
+
+I also produced graphical representations and analysis on authors and their relationship (or lack thereof) with citations.  I produced 3 graphs/tables in this category:
+  1. a probability distribution of mean citations per author
+  2. two side-by-side boxplots representing
+    a) the papers with authors associated with historically high average citations
+    b) all other papers
+    c) a table containing the top 5 authors in terms of average citations along with their respective affiliations
+
+Darpan Jhawar:
+
+I worked on the field of Author Keywords and tried to see how it affects the number of citations a paper recieves. To do this I divided the work into two tasks:
+  1. Find top 10 keywords based on their frequency of occurrence
+  2. Find top 10 keywords based on average number of citations
+
+I then compared both these results and found that only 1 keyword appeared in both of these lists. To undrestand it better, I generated probability distribution functions and boxplots for both of these tasks.
