@@ -63,3 +63,24 @@ Charles S. Stamey
 
 I did alot for this group this time. Hopefully I remain top contributor for the remainder of the semester.
 #lifegoals
+
+
+Mouna Kalidindi
+
+I worked on year and publication venue fields. I performed graphical analysis on these fields to see their impact on citation.
+
+Year:
+1) Line graph for the number of papers published in each year
+2) Line graph for the total number of citations per year
+3) Citations to publications ratio
+    I found a positive correlation between number of papers published and their citations across years. And based on year and 
+citations proportions, it was evident that older the paper higher is the citation rate.
+
+Publication Venues:
+1)Top 5 publication venues based on the number of papers published 
+2)Top 5 publication venues based on the average number of citations
+  Box plots were generated for these tasks to analyze the distribution of data. I also extracted top 5 fields of study based on the   
+  publication venues.
+
+
+
