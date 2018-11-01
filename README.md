@@ -3,6 +3,8 @@ Centered on bioinformatics Scopus research papers’ data, we aim to predict the
 
 The first phase of the project will consist of data wrangling and organizing, essentially preparing data for machine learning.  The next phase will be researching and appropriately selecting what machine learning we want to apply.  Finally, we will perform analysis on the machine learning and present our findings as intuitively and concisely as possible.
 
+We are at the end of the first phase right now. We have analysed each field in our dataset in great detail and found how does it correlate to the number of citations. We have presented the results in the third presentation. Currently, we are working on NLP(Natural Language Processing) and the next step would be to select and apply machine learning to predict the number of citations.
+
 Members and Related Tasks: 
 - Mouna https://github.com/mounakalidindi
 
