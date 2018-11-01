@@ -41,3 +41,18 @@ I worked on the field of Author Keywords and tried to see how it affects the num
   2. Find top 10 keywords based on average number of citations
 
 I then compared both these results and found that only 1 keyword appeared in both of these lists. To undrestand it better, I generated probability distribution functions and boxplots for both of these tasks.
+
+Logan Hornbuckle:
+
+I created various graphical representations comparing the average citations/paper for the top 10
+fields of study. I seperated them into the following two groups:
+
+1) Top 10 Most Cited Publications
+2) Top 10 Most Published Publications
+
+I performed comparisons via boxplot and bargraph visualizations. I also compared the distributions
+of the top 2 fields of study from each group (above). Lastly, I tried to visually represent why
+Mathematics ranked #1 in "most cited", but was absent from most published. I did this by comparing
+its distribution with another field of study in the top 3 from the "most published" group.
+
+
