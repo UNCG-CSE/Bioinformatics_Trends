@@ -23,11 +23,13 @@ Tasks performed by each member:
 
 Luke Davis:
 
-I produced two graphical representations and respective analysis' on the distribution of citations.  I produced two graphs in this category.
+I produced two graphical representations and respective analysis' on the distribution of citations.  I produced two graphs in this
+category.
 1. a scatterplot
 2. a probability distribution of citations over the years of our data.
 
-I also produced graphical representations and analysis on authors and their relationship (or lack thereof) with citations.  I produced 3 graphs/tables in this category:
+I also produced graphical representations and analysis on authors and their relationship (or lack thereof) with citations.  I produced 3
+graphs/tables in this category:
   1. a probability distribution of mean citations per author
   2. two side-by-side boxplots representing
     a) the papers with authors associated with historically high average citations
@@ -36,11 +38,13 @@ I also produced graphical representations and analysis on authors and their rela
 
 Darpan Jhawar:
 
-I worked on the field of Author Keywords and tried to see how it affects the number of citations a paper recieves. To do this I divided the work into two tasks:
+I worked on the field of Author Keywords and tried to see how it affects the number of citations a paper recieves. To do this I divided
+the work into two tasks:
   1. Find top 10 keywords based on their frequency of occurrence
   2. Find top 10 keywords based on average number of citations
 
-I then compared both these results and found that only 1 keyword appeared in both of these lists. To undrestand it better, I generated probability distribution functions and boxplots for both of these tasks.
+I then compared both these results and found that only 1 keyword appeared in both of these lists. To undrestand it better, I generated
+probability distribution functions and boxplots for both of these tasks.
 
 Logan Hornbuckle:
 
