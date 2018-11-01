@@ -33,3 +33,11 @@ I also produced graphical representations and analysis on authors and their rela
     a) the papers with authors associated with historically high average citations
     b) all other papers
     c) a table containing the top 5 authors in terms of average citations along with their respective affiliations
+
+Darpan Jhawar:
+
+I worked on the field of Author Keywords and tried to see how it affects the number of citations a paper recieves. To do this I divided the work into two tasks:
+  1. Find top 10 keywords based on their frequency of occurrence
+  2. Find top 10 keywords based on average number of citations
+
+I then compared both these results and found that only 1 keyword appeared in both of these lists. To undrestand it better, I generated probability distribution functions and boxplots for both of these tasks.
