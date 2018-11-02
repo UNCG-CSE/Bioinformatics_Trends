@@ -61,14 +61,22 @@ its distribution with another field of study in the top 3 from the "most publish
 
 Charles S. Stamey
 
-Continuing from our second presentation, I first looked at two countries, the US and China. Here I compared to the amount of publications by each year. While there presented a large gap with the US leading counts in the 1980's and 90's, China had actually decreased that gap, even leading in publication count some recent years (2010-11, 2016-17). While this is an interesting fact, I am still researching to see if this can be helpful in predicting citations.
-I worked on the field of affiliation name and country with comparisons in publication and citation count. My graphical analysis included the following:
+Continuing from our second presentation, I first looked at two countries, the US and China. Here I compared to 
+the amount of publications by each year. While there presented a large gap with the US leading counts in the 1980's and 90's,
+China had actually decreased that gap, even leading in publication count some recent years (2010-11, 2016-17). While this is
+an interesting fact, I am still researching to see if this can be helpful in predicting citations.
+I worked on the field of affiliation name and country with comparisons in publication and citation count. My graphical analysis
+included the following:
 
 1) Top 10 Universities with the most publications. Then I recorded the average number of citations among those Universities.
 2) First, averaging number of citations among all Universities, then taking the top 5 with the highest average. 
 3) Probability Density Function between second highest of the two, Shanghai Jiaotong University and Cellzome AG. 
 
-I began this task by initially removing Universities with less than 5 publications. Having said that, one note to mention: European Bioinfomatics Institute had highest citaiton count with one publication and country as United States. All of their other publications listed United Kingdom as the affilaition's country, so I removed the one with US. Results included that no commonalities were found in my result. Additionally, Shanghai density was very left-skewed, while Cellzome AG had a smoother distrbution. Lastly, high publication count did not equate to high average number of citations.
+I began this task by initially removing Universities with less than 5 publications. Having said that, one note to mention:
+European Bioinfomatics Institute had highest citaiton count with one publication and country as United States. All of their
+other publications listed United Kingdom as the affilaition's country, so I removed the one with US. Results included that no
+commonalities were found in my result. Additionally, Shanghai density was very left-skewed, while Cellzome AG had a smoother
+distrbution. Lastly, high publication count did not equate to high average number of citations.
 I remain determined to find how this field can contribute to Machine learning and citation prediction.
 
 Mouna Kalidindi
